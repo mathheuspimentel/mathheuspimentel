@@ -1,11 +1,30 @@
 ## Hi there 👋
 
-I'm creating my profile in GitHu and I'l will update it ASAP!
+### Olá 👋
 
-For now I'm acceptig your impression and tips about. 
 
-Thanks, see you soon!
+###### Sobre o Matheus
+Profissional com 10 anos de experiência, formado em Técnico em Informática e graduado em Redes de Computadores.
 
+Iniciei como desenvolvedor Back-End usando PHP e SQL; tenho experiência em monitorar e intervir em ambientes de redes B2B; 
+
+No momento estou estudando e aprofundando em duas linguagens distintas: C# e JavaScript.
+### Detalhes
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.mathheuspimentel-readme-stats)
+
+### Projetos
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.mathheuspimentel-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.mathheuspimentel-readme-stats)
+
+
+### Contatos
+
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/matheusppimentel/)
 <!--
 **mathheuspimentel/mathheuspimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
