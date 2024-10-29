@@ -17,8 +17,7 @@ No momento estou estudando e aprofundando em duas linguagens distintas: C# e Jav
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathheuspimentel&repo=Ebac-JS-V2&theme=dark)](https://github.com/mathheuspimentel/Ebac-JS-V2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathheuspimentel&repo=Aprendendo-CSharp&theme=dark)](https://github.com/mathheuspimentel/Aprendendo-CSharp)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathheuspimentel&repo=Aprendendo-CSharp&theme=dark)]([https://github.com/mathheuspimentel/Aprendendo-CSharp])
 
 ### Linguagens utilizadas
 
