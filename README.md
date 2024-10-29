@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm creating my profile in GitHub. I'l will update this ASAP!
+I'm creating my profile in GitHu and I'l will update it ASAP!
 
 For now I'm acceptig your impression and tips about. 
 
