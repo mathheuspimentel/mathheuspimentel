@@ -4,7 +4,7 @@ I'm creating my profile in GitHub. I'l will update this ASAP!
 
 For now I'm acceptig your impression and tips about. 
 
-Thanks, se you soon!
+Thanks, see you soon!
 
 <!--
 **mathheuspimentel/mathheuspimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
