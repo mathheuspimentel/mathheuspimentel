@@ -11,16 +11,16 @@ Iniciei como desenvolvedor Back-End usando PHP e SQL; tenho experiência em moni
 No momento estou estudando e aprofundando em duas linguagens distintas: C# e JavaScript.
 ### Detalhes
 
-[![Matheus's GitHub stats](httpsgithub-readme-stats.vercel.app/api?username=mathheuspimentel&show_icons=true&theme=dark)](httpsgithub.anuraghazra-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathheuspimentel&show_icons=true&theme=dark)](httpsgithub.anuraghazra-readme-stats)
 
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.app/api/pin/?username=mathheuspimentel&repo=variavel&theme=dark)](httpsgithub.anuraghazra-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathheuspimentel&repo=variavel&theme=dark)](httpsgithub.anuraghazra-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.app/api/top-langs/?username=mathheuspimentel&layout=compact)](httpsgithub.anuraghazra-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathheuspimentel&layout=compact)](httpsgithub.anuraghazra-readme-stats)
 
 
 ### Contatos
