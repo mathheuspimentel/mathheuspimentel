@@ -22,7 +22,7 @@ No momento estou estudando e aprofundando em duas linguagens distintas: C# e Jav
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathheuspimentel&layout=compact)](https://github.mathheuspimentel-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathheuspimentel&layout=compact)](https://github.com/mathheuspimentel)
 
 
 ### Contatos
